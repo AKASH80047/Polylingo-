@@ -1,7 +1,17 @@
 # 🌐 PolyLingo — Universal AI Translation Platform
 
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_PolyLingo-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akash80047.github.io/Polylingo-/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Active-2ea44f?style=for-the-badge&logo=github)](https://akash80047.github.io/Polylingo-/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 > **Translate Anything. Anywhere.**  
 > High-fidelity Neural Translation for Texts, Multi-Page PDFs, In-Place Google Lens Images (OCR), Word (DOCX), Excel (XLSX), and Camera Documents.
+
+---
+
+## 🔗 Live Demo & Deployment
+- **Live Web App**: [https://akash80047.github.io/Polylingo-/](https://akash80047.github.io/Polylingo-/)
+- **Backend API**: Deployed via Vercel / Node Server
 
 ---
 
